@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Tae
+## Hi 👋 My name is Tae
 
 🎓 Rice Business MBA Candidate ('27)  
 
