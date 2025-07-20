@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Tae
 
-🎓 Rice Business MBA Candidate ('27)  
+🎓 Cornell Johnson MBA Candidate ('27)  
 
 ### 🔭 Current Projects
 - [TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater.git)  
