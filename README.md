@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Tae
 
-🎓 Cornell Johnson MBA Candidate ('27)  
+🎓 Cornell Johnson MBA Candidate '27
 
 ### 🔭 Current Projects
 - [TrackNowNotLater]
