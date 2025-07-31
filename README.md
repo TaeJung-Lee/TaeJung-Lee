@@ -3,7 +3,7 @@
 🎓 Cornell Johnson MBA Candidate '27
 
 ### 🔭 Current Projects
-- [TrackNowNotLater]
+- [TrackNowNotLater](https://github.com/TaeJung-Lee/TrackNowNotLater/blob/main/README.md)
 - [Matcha Analysis](https://github.com/TaeJung-Lee/Matcha_Analysis)
 
 ### 📫 How to reach me
